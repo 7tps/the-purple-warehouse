@@ -5696,11 +5696,11 @@ ${_this.escape(teamNumber)} (Blue ${i + 1})
                         <div class="shop-balance">
                             <div class="currency">
                                 <div class="nuts">
-                                    <span>0</span>
+                                    <span>${leader.nuts}</span>
                                     <img src="/img/nuts.png" alt="Nuts" />
                                 </div>
                                 <div class="bolts">
-                                    <span>0</span>
+                                    <span>${leader.bolts}</span>
                                     <img src="/img/bolts.png" alt="Bolts" />
                                 </div>
                             </div>
